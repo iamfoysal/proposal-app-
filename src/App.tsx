@@ -8,10 +8,10 @@ import { motion, AnimatePresence } from 'motion/react';
 import { Heart, Stars, Music, Sparkles, Send, Gift } from 'lucide-react';
 
 const IMAGES = [
-  { url: 'https://picsum.photos/seed/love1/800/1000', caption: 'The first time I saw you...' },
-  { url: 'https://picsum.photos/seed/love2/800/1000', caption: 'That smile that brightens my day.' },
-  { url: 'https://picsum.photos/seed/love3/800/1000', caption: 'Every moment with you is a treasure.' },
-  { url: 'https://picsum.photos/seed/love4/800/1000', caption: 'You make the world a better place.' },
+  { url: 'https://picsum.photos/seed/girl-glasses-1/800/1000', caption: 'The first time I saw you...' },
+  { url: 'https://picsum.photos/seed/cute-girl-2/800/1000', caption: 'That smile that brightens my day.' },
+  { url: 'https://picsum.photos/seed/glasses-girl-3/800/1000', caption: 'Every moment with you is a treasure.' },
+  { url: 'https://picsum.photos/seed/instagram-girl-4/800/1000', caption: 'You make the world a better place.' },
 ];
 
 export default function App() {
